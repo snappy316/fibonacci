@@ -1,9 +1,11 @@
 # Fibonacci
 
 ## Summary
-This program
+This program retreives a Fibonacci number at a specific position in the sequence.
 
 ## Approach
+It calculates the Fibonacci sequence based on the assumption that the 0th position is 0, the 1st position is 1, the 2nd position is 1, the 3rd position is 2, and so on.
+
 I referenced a few lists of Fibonacci numbers, to verify my math was correct:
 * [Wikipedia's List of Fibonacci Numbers](http://en.wikipedia.org/wiki/Fibonacci_number#List_of_Fibonacci_numbers)
 * [Fibonacci Calculator](http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibCalcX.html)
